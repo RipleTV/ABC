@@ -1,0 +1,17 @@
+{
+    "name": "Ethereum Coin #0",
+    "description": "I love Ethereum",
+    "image": "/ethereum.jpg",
+    "dna": "e46f6629178368d7b583f31f3c5acea44e6ed0de",
+    "edition": 1,
+    "date": 1653243003705,
+    "creator": "Riple <3",
+    "attributes": [
+      {
+        "trait_type": "BloackChain",
+        "value": "Ethereum"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+  
