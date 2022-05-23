@@ -1,7 +1,7 @@
 {
     "name": "Ethereum Coin #0",
     "description": "I love Ethereum",
-    "image": "/ethereum.jpg",
+    "image": "https://github.com/RipleTV/ABC/blob/master/IMG/ethereum.jpg",
     "dna": "e46f6629178368d7b583f31f3c5acea44e6ed0de",
     "edition": 1,
     "date": 1653243003705,
@@ -12,6 +12,6 @@
         "value": "Ethereum"
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "Made by Riple"
   }
   
