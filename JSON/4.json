@@ -1,7 +1,7 @@
 {
   "name": "Glitch Dogs #4",
   "description": "The Glitch Dogs is NFT colection with 420 pieces",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/800px-Ethereum-icon-purple.svg.png",
+  "image": "https://github.com/RipleTV/ABC/blob/master/IMG/100.png?raw=true",
   "dna": "57fd69d19bed8125f7aa72c8b72aa8701b17305b",
   "edition": 4,
   "date": 1653243003875,
@@ -9,19 +9,38 @@
   "attributes": [
     {
       "trait_type": "BACKGROUND",
-      "value": "PABLO"
+      "value": "Sun"
     },
     {
       "trait_type": "CARS",
-      "value": "PABLO"
+      "value": "Bug"
     },
     {
       "trait_type": "GB_CAR",
-      "value": "PABLO"
+      "value": "Rose"
     },
     {
       "trait_type": "HEADS",
-      "value": "PABLO "
+      "value": "Brown_mask"
+    },
+    {
+      "trait_type": "Level", 
+      "value": 5
+    }, 
+    {
+      "display_type": "boost_number", 
+      "trait_type": "Aqua Power", 
+      "value": 40
+    }, 
+    {
+      "display_type": "boost_percentage", 
+      "trait_type": "Stamina Increase", 
+      "value": 10
+    }, 
+    {
+      "display_type": "number", 
+      "trait_type": "Generation", 
+      "value": 2
     }
   ],
   "compiler": "HashLips Art Engine"
