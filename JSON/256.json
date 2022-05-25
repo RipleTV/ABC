@@ -1,0 +1,28 @@
+{
+  "name": "Glitch Dogs #256",
+  "description": "The Glitch Dogs is NFT colection with 420 pieces",
+  "image": "ipfs://QmQoZfE535MuFyzrtBkx4CKQieEm1E1jjtPBaNMqRAmCQD/256.png",
+  "dna": "019d7b3dceb848d196a529990a6ba9660d008315",
+  "edition": 256,
+  "date": 1653243021838,
+  "creator": "Riple <3",
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Sun"
+    },
+    {
+      "trait_type": "CARS",
+      "value": "Dark Blue"
+    },
+    {
+      "trait_type": "GB_CAR",
+      "value": "Rose"
+    },
+    {
+      "trait_type": "HEADS",
+      "value": "Ower_glich_Dark Purple"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
