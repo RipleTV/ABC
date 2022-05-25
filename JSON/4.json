@@ -1,5 +1,5 @@
 {
-  "name": "Glitch Dogs #4",
+  "name": "Is it work?",
   "description": "The Glitch Dogs is NFT colection with 420 pieces",
   "image": "https://github.com/RipleTV/ABC/blob/master/IMG/100.png?raw=true",
   "dna": "57fd69d19bed8125f7aa72c8b72aa8701b17305b",
@@ -25,7 +25,9 @@
     },
     {
       "trait_type": "Level", 
-      "value": 5
+      "value": 5,
+      "minimum": 0,
+      "maximum": 100
     }, 
     {
       "display_type": "boost_number", 
