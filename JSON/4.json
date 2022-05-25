@@ -1,7 +1,7 @@
 {
   "name": "Glitch Dogs #4",
   "description": "The Glitch Dogs is NFT colection with 420 pieces",
-  "image": "https://miro.medium.com/max/1400/1*gRFH48Pd7u3TpbWnc9__BQ.png",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/800px-Ethereum-icon-purple.svg.png",
   "dna": "57fd69d19bed8125f7aa72c8b72aa8701b17305b",
   "edition": 4,
   "date": 1653243003875,
@@ -9,19 +9,19 @@
   "attributes": [
     {
       "trait_type": "BACKGROUND",
-      "value": "Sun"
+      "value": "PABLO"
     },
     {
       "trait_type": "CARS",
-      "value": "Bug"
+      "value": "PABLO"
     },
     {
       "trait_type": "GB_CAR",
-      "value": "Rose"
+      "value": "PABLO"
     },
     {
       "trait_type": "HEADS",
-      "value": "Elon Musk"
+      "value": "PABLO "
     }
   ],
   "compiler": "HashLips Art Engine"
